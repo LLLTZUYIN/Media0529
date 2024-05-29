@@ -68,3 +68,4 @@ fun GreetingPreview() {
     Media0529Theme {
         Greeting2("Android")
     }
+}
